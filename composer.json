@@ -1,0 +1,10 @@
+{
+    "name": "zhuangyuanhui/test-composer",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Zhuangyuanhui\\TestComposer\\": "src/"
+        }
+    },
+    "require": {}
+}
